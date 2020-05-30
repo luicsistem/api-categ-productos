@@ -1,0 +1,24 @@
+{
+   "categorias": [
+        {
+            "id": 1,
+            "nombre": "Carnes",
+            "foto": "https://revistaelconocedor.com/wp-content/uploads/2017/01/carne-1.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Avicola",
+            "foto": "https://live.minervafoods.com/files/peito_de_frango_grelhado_na_churrasqueira_-_blog.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Dulces",
+            "foto": "https://portal.andina.pe/EDPfotografia3/Thumbnail/2018/04/21/000498247W.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Pescados y mariscos",
+            "foto": "https://www.sise.edu.pe/sites/default/files/formacion/2019-08/PESCADOS%20Y%20MARISCOS-02.jpg"
+        }
+    ]
+}
